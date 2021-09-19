@@ -1,5 +1,5 @@
 .topnav{
-    background-color: blue;
+    background-color: maroon;
     overflow: hidden;
 }
 
@@ -18,7 +18,7 @@
   }
 
   .topnav a.active {
-    background-color: darkblue;
+    background-color: rgb(87, 3, 3);
     color: white;
   }
 
